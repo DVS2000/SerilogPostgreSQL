@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "QzrrAHOwkJOG219HSuUBwWkPSb3qdf6v7j+EoIwdnno=",
+  "Source": "SeriLogs.API",
+  "BasePath": "_content/SeriLogs.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
